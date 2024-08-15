@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">taxi</string>
+    <string name="otp_verification">Registration using OTP verification</string>
+    <string name="otp_verify">OTP verification</string>
+    <string name="we_will_send_you_an_otp_on_your_provided_mobile_number">We will send you an otp on your provided mobile number !!!</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enterotp">Please enter OTP sent to you</string>
+</resources>
